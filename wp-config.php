@@ -23,10 +23,10 @@
 define('DB_NAME', 'jachtywp');
 
 /** MySQL database username */
-define('DB_USER', 'rafal');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '!@#_brak');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
